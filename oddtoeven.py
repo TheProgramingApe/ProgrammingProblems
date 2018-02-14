@@ -3,7 +3,7 @@
 
 class OddToEven:
 	"""Class that finds the biggest even number 
-	 possible by just oen swap of its elements OddToEven"""
+	 possible by just one swap of its elements OddToEven"""
 
 	def biggest_even(self, number):
 		size = len(number)
